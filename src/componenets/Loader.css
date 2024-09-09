@@ -1,0 +1,15 @@
+.loading-wraper{
+    position: absolute;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 50;
+    display: flex;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+.loading{
+    width: 200px;
+    height: 200px;
+}
