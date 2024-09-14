@@ -40,11 +40,8 @@ const App = () => {
           <Route path='/myorders' element={<MyOrders />} />
           <Route path='/list' element={<ViewAllFood />} />
         </Routes>
-        
-
       </div>
       }
-      
       <Footer />
     </>
   )
